@@ -2,18 +2,20 @@
 
 ### MERN Stack Developer • Backend Engineer • AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI-Powered+Applications;Backend+%7C+Redis+%7C+Docker;Always+Learning+New+Technologies" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;Building+AI-Powered+Applications;Node.js+%7C+React+%7C+MongoDB+%7C+Redis;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
 ---
 
 # 🚀 About Me
 
-I enjoy building software that solves real-world problems through scalable backend systems, modern web technologies, and AI.
+I'm a passionate Full Stack Developer focused on building scalable backend systems, AI-powered applications, and modern web experiences.
 
-My interests lie at the intersection of
+I enjoy working at the intersection of
 
-```
-Real World Problems
+```text
+Real-World Problems
         ↓
 Backend Engineering
         ↓
@@ -22,7 +24,7 @@ Scalable Systems
 AI-Powered Solutions
 ```
 
-I'm currently focused on becoming a software engineer capable of designing reliable systems, building production-ready applications, and contributing to impactful products.
+Currently exploring System Design, AI Engineering, Cloud Technologies, and Open Source while strengthening my problem-solving skills.
 
 ---
 
@@ -32,44 +34,49 @@ I'm currently focused on becoming a software engineer capable of designing relia
 
 AI-powered Web Performance Analyzer that combines Lighthouse audits with backend telemetry to generate intelligent performance insights.
 
-**Highlights**
+### Highlights
 
-* AI Performance Analysis
-* RAG Pipeline
-* OpenTelemetry SDK
-* Redis Caching
-* JWT Authentication
-* Real-time Monitoring
+* 🤖 AI Performance Analysis
+* 📊 Lighthouse Reports
+* ⚡ Redis Caching
+* 🔍 RAG Pipeline
+* 📡 OpenTelemetry SDK
+* 🔐 JWT Authentication
 
-🔗 Live Demo
+🌐 **Live Demo:**
+prfai.vercel.app
 
-🔗 Repository
+💻 **Repository:**
+https://github.com/akashbirajdar04/prfai
 
 ---
 
 ## 🏨 NexHostel
 
-Smart Hostel & Mess Management Platform built for students, hostel owners, and administrators.
+A Smart Hostel & Mess Management Platform for students, hostel owners, and administrators.
 
-**Highlights**
+### Highlights
 
-* Multi-role Authentication
-* Redis Caching
-* Real-time Notifications
-* Cloudinary Integration
-* Secure REST APIs
+* 🏠 Multi-role Authentication
+* ⚡ Redis Caching
+* ☁️ Cloudinary Integration
+* 📱 Real-time Notifications
+* 🔐 Secure REST APIs
 
-🔗 Live Demo
+🌐 **Live Demo:**
+https://YOUR-NEXHOSTEL-LIVE-LINK
 
-🔗 Repository
+💻 **Repository:**
+https://github.com/akashbirajdar04/project
 
 ---
 
 ## 📦 AI-Perf SDK
 
-A Node.js SDK for automatically collecting application performance metrics using OpenTelemetry.
+A Node.js SDK for automatically collecting performance metrics using OpenTelemetry.
 
-🔗 Repository
+💻 **Repository:**
+https://github.com/akashbirajdar04/prfai/tree/main/ai-perf-sdk
 
 ---
 
@@ -77,93 +84,104 @@ A Node.js SDK for automatically collecting application performance metrics using
 
 ### Languages
 
-Java • JavaScript • C
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
 ### Frontend
 
-React • Vite • Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwind-css)
 
 ### Backend
 
-Node.js • Express.js
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
 
 ### Database
 
-MongoDB • Redis
-
-### AI & Cloud
-
-OpenTelemetry • RAG • Cloudinary
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
 
 ### Tools
 
-Git • GitHub • Docker • Postman • VS Code
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
 
 ---
 
 # 📈 Currently Learning
 
-| Building          | Exploring        | Improving       |
-| ----------------- | ---------------- | --------------- |
-| Backend Systems   | AI Engineering   | System Design   |
-| MERN Applications | Docker           | Problem Solving |
-| REST APIs         | Cloud Deployment | Open Source     |
+| Building          | Exploring        | Improving     |
+| ----------------- | ---------------- | ------------- |
+| MERN Applications | AI Engineering   | System Design |
+| Backend APIs      | Docker           | DSA           |
+| Scalable Services | Cloud Deployment | Open Source   |
 
 ---
 
 # 🏆 Achievements
 
 * 💯 Solved 250+ DSA Problems
-* 🚀 Built Multiple Full Stack Applications
+* 🚀 Built Multiple Full Stack Projects
+* 🌱 Continuously Learning Backend & AI
 * 🤝 Open Source Contributor
-* 📚 Consistently Learning System Design & Backend Development
 
 ---
 
 # 📊 GitHub Analytics
 
-(Add GitHub Stats Card)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+</p>
 
-(Add GitHub Streak Card)
-
-(Add Top Languages Card)
-
-(Add Contribution Graph)
-
----
-
-# ✍️ Learning Journey
-
-I enjoy documenting concepts while learning.
-
-Topics I explore include:
-
-* Backend Development
-* Java & DSA
-* Redis
-* Docker
-* System Design
-* AI Applications
-* Performance Optimization
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
-🌍 Portfolio
+<p align="center">
 
-💼 LinkedIn
+<a href="https://github.com/akashbirajdar04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-📧 Email
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-📄 Resume
+<a href="[https://YOUR_PORTFOLIO_URL](https://portfolio-chi-ten-bl35vqt2s8.vercel.app/)">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
+<a href="mailto:akashbirajdar@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="[https://YOUR_RESUME_LINK](https://drive.google.com/file/d/1-KKjDlqRtnyd_p-dJS1ESpZv7yJS9jfT/view?usp=drive_link)">
+<img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
 > **"Great software isn't just about writing code—it's about solving meaningful problems with scalable solutions."**
-
-<!--
-**akashbirajdar04/akashbirajdar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
